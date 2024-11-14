@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
 		}
 	]
 }
